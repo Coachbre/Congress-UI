@@ -17,3 +17,34 @@ h1,h2,h3,h4,h5,h6 {
   font-family: "Patua One", serif;
   letter-spacing: 2px;
 }
+
+/* new css */
+
+body {
+	display: flex;
+}
+
+header {
+	height: 30%;
+	margin: 10px;
+	max-width: 60%;
+} 
+
+h1 {
+	font-size: 80px;
+    color: #831C1C;
+	margin: 0px;
+}
+
+h2 {
+	font-size: 40px;
+	color: #3C4B5E;
+	margin-top: 0%;
+}
+
+img {
+    border-radius: 8px;
+    width: 30%;
+    height: auto;
+}
+    
